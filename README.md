@@ -1,14 +1,15 @@
 [![@murillolog's Holopin badges](https://holopin.me/murillolog)](https://holopin.io/@murillolog)
 
-<h2 align="center">About me 🧐 </h2>
+<h2 align="center">About me: </h2>
+<h3 align="center">Learning, making toys and living every day in a different way<h3><!--:sunglasses:-->
 
-- Pronouns: **He/Him**
+<!--- Pronouns: **He/Him**-->
 - Community Enthusiast
-- Interested in **Augmented Reality & Digital Systems** :grinning:
-- Currently learning **C# & Kotlin** :star_struck:
-- I love learning new skills as well as implement those in my social environment.
-- I love making **robots** :sunglasses:
-- Most important thing :heart: I enjoy what I do. :heart:
+- Interested in **Extended Reality & Digital Systems** <!--:grinning:-->
+- Background: **C/C++/C# & Verilog** <!--:star_struck:-->
+
+
+<!--- Most important thing :heart: I enjoy what I do. :heart:-->
 
 <!--## Más sobre mí :man:
 Me desenvuelvo en áreas 
