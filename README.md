@@ -31,6 +31,9 @@ With **over 6 years of experience** in mechatronics and STEM outreach, my missio
 ---
 
 ### 📚 Research Paper
+- **ARCanvas: A Mobile-Based Collaborative Colocated AR Drawing Application**  
+  Published in *Communications in Computer and Information Science*  
+  [Read Paper](https://link.springer.com/chapter/10.1007/978-3-031-97910-1_9)
 - **A Framework for Collaborative Augmented Reality Applications**  
   Published in *Proceedings of the ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games*  
   [Read Paper](https://dl.acm.org/doi/abs/10.1145/3722564.3728390)
