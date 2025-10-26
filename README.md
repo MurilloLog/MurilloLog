@@ -2,7 +2,7 @@
 
 <!-- <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'> -->
 
-## Hello! 👋 I'm Gustavo Adolfo Murillo Gutierrez
+## Hello! I'm Gustavo Murillo
 **XR Research Engineer | Mechatronics Engineer | STEM Educator & Community Builder**
 
 I am a **researcher** and developer in the fascinating field of **eXtended Reality (XR)**, where I combine my expertise in **computer vision** and **immersive systems** with a deep passion for education and innovation.
