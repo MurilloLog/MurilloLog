@@ -2,7 +2,7 @@
 
 <!-- <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'> -->
 
-## Hello! I'm Gustavo Murillo
+## Welcome! I'm Gustavo Murillo
 **XR Research Engineer | Mechatronics Engineer | STEM Educator & Community Builder**
 
 I am a **researcher** and developer in the fascinating field of **eXtended Reality (XR)**, where I combine my expertise in **computer vision** and **immersive systems** with a deep passion for education and innovation.
@@ -31,6 +31,9 @@ With **over 6 years of experience** in mechatronics and STEM outreach, my missio
 ---
 
 ### 📚 Research Paper
+- **A Framework Designed with Perceptual Symmetry and Interactive Asymmetry for XR Collaboration**  
+  Published in *Symmetry/Asymmetry in Image Processing and Computer Vision Using Embedded Systems*  
+  [Read Paper](https://www.mdpi.com/2073-8994/17/11/1842)
 - **ARCanvas: A Mobile-Based Collaborative Colocated AR Drawing Application**  
   Published in *Communications in Computer and Information Science*  
   [Read Paper](https://link.springer.com/chapter/10.1007/978-3-031-97910-1_9)
