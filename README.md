@@ -1,63 +1,53 @@
-<!--[![@murillolog's Holopin badges](https://holopin.me/murillolog)](https://holopin.io/@murillolog)
+# Gustavo Murillo
+**Research Engineer | Distributed Systems & Immersive Architectures**  
+*M.Sc. in Electrical Engineering | Specialist in Immersive Collaboration & Computer Vision*
 
-<!-- <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'> -->
-
-## Welcome! I'm Gustavo Murillo
-**XR Research Engineer | Mechatronics Engineer | STEM Educator & Community Builder**
-
-I am a **researcher** and developer in the fascinating field of **eXtended Reality (XR)**, where I combine my expertise in **computer vision** and **immersive systems** with a deep passion for education and innovation.
-
-### 🔬 My Current Focus:
-- Active learning and development in the XR ecosystem (Unity, ARCore, WebXR).
-- Applied research in Computer Vision and human-machine interaction.
-- Building immersive prototypes that aim to solve real-world problems.
-
-### 🤝 My Ethos & Background:
-With **over 6 years of experience** in mechatronics and STEM outreach, my mission is to **democratize access to technology**. I am the founder of Gizmo Labs, a community initiative that promotes inclusive STEM education through:
-
-- **Gamification** and **project-based learning** methodologies.
-- Designing workshops and curricula for **robotics, programming, and maker (DIY)**.
-- Advocating for and developing **low-cost solutions**, positively impacting hundreds of future innovators.
-
-### 🛠️ What You'll Find Here:
-- Projects in **AR/VR/XR** and **computer vision**.
-- Open-source code and tutorials for **robotics** and **mechatronics**.
-- Resources and projects from the **[Gizmo Labs](https://youtube.com/@GizmoMakers)** maker community.
-- References and links to my **latest publications** and research.
-- A commitment to **Clean Code**, continuous improvement, and pragmatic out-of-the-box thinking.
-
-*I am a firm believer in the power of community and open source to inspire the next generation. Always open to collaborating on innovative projects with social impact.*
+I specialize in the design and implementation of **decentralized architectures** where heterogeneous devices (VR, Mobile AR, and Embedded Systems) interact in real-time. My work bridges the gap between high-level software algorithms and physical hardware integration.
 
 ---
 
-### 📚 Research Paper
-- **Thesis (Spanish): Diseño y evaluación de un modelo de colaboración multimodal, heterogéneo y distribuido para entornos inmersivos**  
-  Published in *University of Guanajuato Digital Repository*  
-  [Read Thesis](http://repositorio.ugto.mx/handle/20.500.12059/13955)
-- **A Framework Designed with Perceptual Symmetry and Interactive Asymmetry for XR Collaboration**  
-  Published in *Symmetry/Asymmetry in Image Processing and Computer Vision Using Embedded Systems*  
-  [Read Paper](https://www.mdpi.com/2073-8994/17/11/1842)
-- **ARCanvas: A Mobile-Based Collaborative Colocated AR Drawing Application**  
-  Published in *Communications in Computer and Information Science*  
-  [Read Paper](https://link.springer.com/chapter/10.1007/978-3-031-97910-1_9)
-- **A Framework for Collaborative Augmented Reality Applications**  
-  Published in *Proceedings of the ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games*  
-  [Read Paper](https://dl.acm.org/doi/abs/10.1145/3722564.3728390)
+### 🔬 Technical Expertise
+My focus is on creating robust, scalable systems that maintain consistency and performance across distributed environments.
 
-<!--### 🎤 Speaker & Training
-- **Keynote Speaker** at Founder meets AI: Igniting the Next Wave of Innovation with AI by Indigo Telkom Indonesia with Google Developer Groups  
-  Topic: *"How to Monetize Data with AI"*  
-  [See More](Link)
+* **Computer Vision & Signal Processing:** Implementation of Digital Image Processing (PDI) and Signal Processing (DSP) for object pose estimation, sensor fusion, and real-time data acquisition.
+* **Immersive Systems & XR:** Architecture of collaborative environments using Unity (C#), ARCore, and WebXR.
+* **Distributed Systems:** Design of decentralized models for multi-user interaction, optimizing data transmission and latency.
+* **Hardware-Software Integration:** Rapid prototyping through custom PCB design, 3D modeling (Blender/Fusion 360), and manufacturing for experimental setups.
 
-### 🏅 Certificates
-- [Certified Blockchain Architecture](Link)
-- [IBM Artificial Intelligence](Link)
-- [IBM Blockchain Essentials V2 Certified](Link)
--->
+### 📑 Peer-Reviewed Publications
+I contribute to the scientific community through research focused on interactive symmetry and collaborative frameworks:
 
+* **A Framework Designed with Perceptual Symmetry and Interactive Asymmetry for XR Collaboration**  
+    *Published in **MDPI Symmetry**. Focused on interaction balance in heterogeneous systems.*  
+    [Read Paper](https://doi.org/10.3390/sym17111842)
+* **ARCanvas: A Mobile-Based Collaborative Colocated AR Drawing Application**  
+    *Published by **Springer** in Communications in Computer and Information Science.*  
+    [Read Paper](https://doi.org/10.1007/978-3-031-97910-1_9)
+* **A Framework for Collaborative Augmented Reality Applications**  
+    *Published in **ACM SIGGRAPH (I3D)**. Novel framework for shared AR spaces.*  
+    [Read Paper](https://doi.org/10.1145/3722564.3728390)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+**Academic Thesis**
+* **Design and evaluation of a model for multimodal, heterogeneous, and decentralized collaboration for immersive environments**  
+    *M.Sc. Thesis Distinction: Cum Laude – University of Guanajuato.*  
+    [Read Full Thesis](http://repositorio.ugto.mx/handle/20.500.12059/13955) | [Code Repository](https://github.com/MurilloLog/Tesis-MIE)
+* **[B.Eng. Thesis] Design and implementation of a collaborative Augmented Reality platform**  
+    *B.Eng. Thesis Distinction: Trabajo Laureado – University of Guanajuato.*  
+    [Read Full Thesis](http://repositorio.ugto.mx/handle/20.500.12059/9305) | [Code Repository](https://github.com/MurilloLog/Tesis-LIMT)
 
-### 📫 Let's Connect!
-Feel free to reach out to talk about XR, robotics, STEM education, or any crazy ideas you want to bring to life!
+    
+### 💡 Engineering Leadership & Impact
+**Founder of Gizmo Labs**  
+I direct the development of embedded systems and educational robotics kits. My work focuses on **democratizing technology** through open-source hardware and project-based learning, managing the full product lifecycle from hardware design to software deployment.
+
+---
+
+### 🛠️ Core Tech Stack
+- **Languages:** Python, C++, C#, MATLAB, TypeScript, LaTeX.
+- **Software:** Unity, OpenCV, Git, Linux, Blender.
+- **Hardware:** FPGA Logic Design, Microcontrollers, 3D Printing.
+
+### 📫 Contact & Collaboration
+Open to professional inquiries regarding XR infrastructure, distributed systems, and technical research.
+
+[LinkedIn](https://linkedin.com/in/murillolog) | [Email](mailto:ga.murillogutierrez@ugto.mx)
